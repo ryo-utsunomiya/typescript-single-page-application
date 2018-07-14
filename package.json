@@ -1,0 +1,8 @@
+{
+  "name": "typescript-single-page-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryo-utsunomiya/typescript-single-page-application.git",
+  "author": "Ryo Utsunomiya <millionsnowliving@gmail.com>",
+  "license": "MIT"
+}
